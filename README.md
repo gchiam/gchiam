@@ -1,4 +1,5 @@
 # gchiam
+![Profile views](https://gpvc.arturio.dev/gchiam)
 
 ## Snake eating my Contribution Graph
 ![Snake eating my Contriubution Graph](https://raw.githubusercontent.com/gchiam/gchiam/output/github-contribution-grid-snake.svg)
