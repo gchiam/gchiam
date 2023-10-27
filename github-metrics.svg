@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 15 users
+                            Followed by 14 users
                         </div>
                     </section>
                     <section>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6268 Commits
+                            5968 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    71.8k added, 47.8k removed
+                                    68.6k added, 48.1k removed
                                 </div>
                             </section>
                             <section>
@@ -447,19 +447,11 @@
                         <span class="name">@zendesk</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="4.353720478096511 329"/>
-                            <text x="15" y="15" dominant-baseline="central">521</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="1.0045475952077583 329"/>
+                            <text x="15" y="15" dominant-baseline="central">131</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                        </svg>
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
-                            <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.092592592592593 329"/>
-                            <text x="15" y="15" dominant-baseline="central">1</text>
-                        </svg>
-                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                         </svg>
                     </div>
                 </div>
@@ -738,74 +730,74 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#89e051" d="M0.5,-79.998A80,80,0,0,1,79.1,11.963L0,0Z">
+                                    <path fill="#89e051" d="M0.5,-79.998A80,80,0,0,1,78.736,14.165L0,0Z">
                                         <title>Shell
-1.67</title>
+1.70</title>
                                     </path>
-                                    <path fill="#b07219" d="M78.945,12.951A80,80,0,0,1,77.202,20.974L0,0Z">
+                                    <path fill="#b07219" d="M78.553,15.148A80,80,0,0,1,76.59,23.107L0,0Z">
                                         <title>Java
 0.10</title>
                                     </path>
-                                    <path fill="#0064bd" d="M76.933,21.937A80,80,0,0,1,34.876,71.998L0,0Z">
+                                    <path fill="#0064bd" d="M76.296,24.062A80,80,0,0,1,32.968,72.891L0,0Z">
                                         <title>Jsonnet
 0.82</title>
                                     </path>
-                                    <path fill="#e34c26" d="M33.973,72.428A80,80,0,0,1,32.479,73.11L0,0Z">
+                                    <path fill="#e34c26" d="M32.055,73.297A80,80,0,0,1,30.545,73.939L0,0Z">
                                         <title>HTML
 0.02</title>
                                     </path>
-                                    <path fill="#000080" d="M31.563,73.511A80,80,0,0,1,-70.28,-38.219L0,0Z">
+                                    <path fill="#000080" d="M29.619,74.315A80,80,0,0,1,-67.726,-42.581L0,0Z">
                                         <title>Lua
-2.41</title>
+2.45</title>
                                     </path>
-                                    <path fill="#199f4b" d="M-69.797,-39.094L0,0Z">
+                                    <path fill="#199f4b" d="M-67.189,-43.424L0,0Z">
                                         <title>Vim Script
 0.00</title>
                                     </path>
-                                    <path fill="#384d54" d="M-69.303,-39.964A80,80,0,0,1,-33.472,-72.661L0,0Z">
+                                    <path fill="#384d54" d="M-66.641,-44.26A80,80,0,0,1,-33.423,-72.683L0,0Z">
                                         <title>Dockerfile
-0.60</title>
+0.54</title>
                                     </path>
-                                    <path fill="#427819" d="M-32.561,-73.074A80,80,0,0,1,-3.963,-79.902L0,0Z">
+                                    <path fill="#427819" d="M-32.512,-73.096A80,80,0,0,1,-3.958,-79.902L0,0Z">
                                         <title>Makefile
 0.36</title>
                                     </path>
-                                    <path fill="#A97BFF" d="M-2.963,-79.945A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#A97BFF" d="M-2.959,-79.945A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Kotlin
 0.03</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(30.40680275688937,-25.988965852908134)">
+                                    <text transform="translate(30.766412602677192,-25.562234948490442)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
-                                        <tspan x="0" y="1.1em">1.67</tspan>
+                                        <tspan x="0" y="1.1em">1.70</tspan>
                                     </text>
-                                    <text transform="translate(39.08807846508535,8.492474427829064)">
+                                    <text transform="translate(38.83674810446318,9.576377011713516)">
                                         <tspan x="0" y="0em" font-weight="bold">Java</tspan>
                                     </text>
-                                    <text transform="translate(30.626161114080755,25.730104069248686)">
+                                    <text transform="translate(29.919498267546683,26.548514523759536)">
                                         <tspan x="0" y="0em" font-weight="bold">Jsonnet</tspan>
                                         <tspan x="0" y="1.1em">0.82</tspan>
                                     </text>
-                                    <text transform="translate(16.61402487361284,36.386455962335404)">
+                                    <text transform="translate(15.650817953789428,36.81102956149614)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
                                     </text>
-                                    <text transform="translate(-29.56192950410134,26.946100348557724)">
+                                    <text transform="translate(-30.737639564655836,25.59682624844932)">
                                         <tspan x="0" y="0em" font-weight="bold">Lua</tspan>
-                                        <tspan x="0" y="1.1em">2.41</tspan>
+                                        <tspan x="0" y="1.1em">2.45</tspan>
                                     </text>
-                                    <text transform="translate(-34.89850020919319,-19.547242341285454)">
+                                    <text transform="translate(-33.59447331576872,-21.712009640659787)">
                                         <tspan x="0" y="0em" font-weight="bold">Vim Script</tspan>
                                     </text>
-                                    <text transform="translate(-26.962596412911974,-29.546884686450895)">
+                                    <text transform="translate(-26.005649793688136,-30.39253491908907)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
-                                        <tspan x="0" y="1.1em">0.60</tspan>
+                                        <tspan x="0" y="1.1em">0.54</tspan>
                                     </text>
-                                    <text transform="translate(-9.289001208387605,-38.906483477057826)">
+                                    <text transform="translate(-9.275065717595222,-38.90980796578531)">
                                         <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
                                         <tspan x="0" y="1.1em">0.36</tspan>
                                     </text>
-                                    <text transform="translate(-0.8659741339035307,-39.990625011362475)">
+                                    <text transform="translate(-0.8649510482220166,-39.99064715260531)">
                                         <tspan x="0" y="0em" font-weight="bold">Kotlin</tspan>
                                     </text>
                                 </g>
@@ -3366,7 +3358,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="70.06 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="70.16333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3388,7 +3380,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1678 times</div>
+                                <div class="text">Repositories have been deployed 1679 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3535,7 +3527,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 387k out of 124m users</span>
+                                    <span class="gh">ranked 364k out of 121m users</span>
                                 </div>
                                 <div class="text">Published 65 public repositories</div>
                             </div>
@@ -3753,7 +3745,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.26m out of 71m repositories</span>
+                                    <span class="gh">ranked 1.26m out of 66.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 8 times</div>
                             </div>
@@ -3768,7 +3760,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.904522613065327 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.125628140703519 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3805,9 +3797,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 871k out of 124m users</span>
+                                    <span class="gh">ranked 935k out of 121m users</span>
                                 </div>
-                                <div class="text">Followed by 15 users</div>
+                                <div class="text">Followed by 14 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3876,7 +3868,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.56m out of 71m repositories</span>
+                                    <span class="gh">ranked 2.56m out of 66.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -3967,7 +3959,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2023, 12:13:41 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2023, 13:11:00 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
