@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    516k added, 60.3k removed
+                                    13.6k added, 503 removed
                                 </div>
                             </section>
                             <section>
@@ -195,12 +195,12 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="80" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="80" y="0" width="20" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="100" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="100" y="0" width="0" height="8" fill="#56d364"/>
                             <rect mask="url(#issues-bar)" x="100" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="100" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="100" y="0" width="100" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="200" y="0" width="20" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="100" y="0" width="119.99999999999999" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
@@ -250,14 +250,14 @@
                                     <path fill="#56d364" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#56d364" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">2 <small>open</small></span>
+                                <span class="no-wrap">0 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#d2a8ff" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#d2a8ff" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">2 <small>closed</small></span>
+                                <span class="no-wrap">0 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -280,14 +280,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="30.697674418604652" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="30.697674418604652" y="0" width="2.558139534883721" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="15.348837209302326" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="15.348837209302326" y="0" width="17.906976744186046" height="8" fill="#56d364"/>
                             <rect mask="url(#issues-bar)" x="33.25581395348837" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="33.25581395348837" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="33.25581395348837" y="0" width="35.81395348837209" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="69.06976744186046" y="0" width="2.558139534883721" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="71.62790697674419" y="0" width="145.81395348837208" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="217.44186046511626" y="0" width="2.558139534883721" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="33.25581395348837" y="0" width="17.906976744186046" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="51.16279069767442" y="0" width="20.46511627906977" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="71.62790697674419" y="0" width="148.37209302325581" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -333,13 +333,13 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#56d364" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">1 <small>open</small></span>
+                                <span class="no-wrap">7 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#d2a8ff" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">1 <small>merged</small></span>
+                                <span class="no-wrap">0 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -352,7 +352,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ff7b72" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">1 <small>closed</small></span>
+                                <span class="no-wrap">8 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -447,8 +447,8 @@
                         <span class="name">@zendesk</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="1.2862611732828277 329"/>
-                            <text x="15" y="15" dominant-baseline="central">203</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="1.6976820647771558 329"/>
+                            <text x="15" y="15" dominant-baseline="central">314</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
@@ -734,42 +734,42 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-16.891,-78.197L0,0Z">
+                                    <path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-18.248,-77.891L0,0Z">
                                         <title>Java
-86.03</title>
+85.20</title>
                                     </path>
-                                    <path fill="#0064bd" d="M-15.912,-78.402A80,80,0,0,1,-6.144,-79.764L0,0Z">
+                                    <path fill="#0064bd" d="M-17.273,-78.113A80,80,0,0,1,-5.54,-79.808L0,0Z">
                                         <title>Jsonnet
-1.75</title>
+2.09</title>
                                     </path>
-                                    <path fill="#000080" d="M-5.147,-79.834A80,80,0,0,1,-4.865,-79.852L0,0Z">
+                                    <path fill="#000080" d="M-4.542,-79.871A80,80,0,0,1,-4.201,-79.89L0,0Z">
                                         <title>Lua
-0.05</title>
-                                    </path>
-                                    <path fill="#701516" d="M-3.867,-79.906A80,80,0,0,1,-1.838,-79.979L0,0Z">
-                                        <title>Ruby
-0.36</title>
-                                    </path>
-                                    <path fill="#89e051" d="M-0.838,-79.996A80,80,0,0,1,-0.5,-79.998L0,0Z">
-                                        <title>Shell
 0.06</title>
+                                    </path>
+                                    <path fill="#701516" d="M-3.202,-79.936A80,80,0,0,1,-1.954,-79.976L0,0Z">
+                                        <title>Ruby
+0.22</title>
+                                    </path>
+                                    <path fill="#89e051" d="M-0.954,-79.994A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                        <title>Shell
+0.08</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(4.122394567804804,39.787006208400925)">
+                                    <text transform="translate(4.468276710621354,39.749647837903154)">
                                         <tspan x="0" y="0em" font-weight="bold">Java</tspan>
-                                        <tspan x="0" y="1.1em">86.03</tspan>
+                                        <tspan x="0" y="1.1em">85.20</tspan>
                                     </text>
-                                    <text transform="translate(-5.5246102087607865,-39.61664652694945)">
+                                    <text transform="translate(-5.718954210570402,-39.589058624036504)">
                                         <tspan x="0" y="0em" font-weight="bold">Jsonnet</tspan>
                                     </text>
-                                    <text transform="translate(-2.503073963454188,-39.9216059388081)">
+                                    <text transform="translate(-2.1857396182937365,-39.94023713401087)">
                                         <tspan x="0" y="0em" font-weight="bold">Lua</tspan>
                                     </text>
-                                    <text transform="translate(-1.4263952981566042,-39.97455936534381)">
+                                    <text transform="translate(-1.289163007342945,-39.97922033682621)">
                                         <tspan x="0" y="0em" font-weight="bold">Ruby</tspan>
                                     </text>
-                                    <text transform="translate(-0.33458332059440177,-39.998600650542514)">
+                                    <text transform="translate(-0.36355000307601604,-39.99834785832114)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
                                     </text>
                                 </g>
@@ -3251,7 +3251,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="887.0133333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="887.1166666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3273,7 +3273,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 9584 times</div>
+                                <div class="text">Repositories have been deployed 9585 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3729,7 +3729,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.50m out of 186m repositories</span>
+                                    <span class="gh">ranked 1.50m out of 201m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 7 times</div>
                             </div>
@@ -3800,7 +3800,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.91m out of 186m repositories</span>
+                                    <span class="gh">ranked 2.91m out of 201m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -3891,7 +3891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2024, 16:19:03 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Sept 2024, 17:16:07 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
