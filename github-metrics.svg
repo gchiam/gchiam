@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    11.1k added, 11k removed
+                                    28.1k added, 19.8k removed
                                 </div>
                             </section>
                             <section>
@@ -718,30 +718,30 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-36.439,-71.219L0,0Z">
+                                    <path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-35.389,-71.747L0,0Z">
                                         <title>Java
-81.08</title>
+81.63</title>
                                     </path>
-                                    <path fill="#0064bd" d="M-35.546,-71.669A80,80,0,0,1,-24.194,-76.254L0,0Z">
+                                    <path fill="#0064bd" d="M-34.489,-72.184A80,80,0,0,1,-23.447,-76.487L0,0Z">
                                         <title>Jsonnet
-2.14</title>
+2.08</title>
                                     </path>
-                                    <path fill="#c22d40" d="M-23.239,-76.55A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#c22d40" d="M-22.49,-76.774A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Scala
-4.03</title>
+3.91</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(9.248975186401063,38.916018013169555)">
+                                    <text transform="translate(8.962777961698606,38.98292717599962)">
                                         <tspan x="0" y="0em" font-weight="bold">Java</tspan>
-                                        <tspan x="0" y="1.1em">81.08</tspan>
+                                        <tspan x="0" y="1.1em">81.63</tspan>
                                     </text>
-                                    <text transform="translate(-14.978881162165036,-37.08952842959502)">
+                                    <text transform="translate(-14.524023222237819,-37.269997980143444)">
                                         <tspan x="0" y="0em" font-weight="bold">Jsonnet</tspan>
                                     </text>
-                                    <text transform="translate(-5.996957025082473,-39.54790141637498)">
+                                    <text transform="translate(-5.803655576151043,-39.57673030902642)">
                                         <tspan x="0" y="0em" font-weight="bold">Scala</tspan>
-                                        <tspan x="0" y="1.1em">4.03</tspan>
+                                        <tspan x="0" y="1.1em">3.91</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -3298,7 +3298,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2024, 20:30:58 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2024, 21:25:23 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
