@@ -718,21 +718,21 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-6.477,-79.737L0,0Z">
+                                    <path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-6.372,-79.746L0,0Z">
                                         <title>Java
-96.47</title>
+96.54</title>
                                     </path>
-                                    <path fill="#0064bd" d="M-5.48,-79.812A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#0064bd" d="M-5.375,-79.819A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Jsonnet
-0.97</title>
+0.95</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(1.4956364472111907,39.97202861524261)">
+                                    <text transform="translate(1.4693382557389811,39.97300395379639)">
                                         <tspan x="0" y="0em" font-weight="bold">Java</tspan>
-                                        <tspan x="0" y="1.1em">96.47</tspan>
+                                        <tspan x="0" y="1.1em">96.54</tspan>
                                     </text>
-                                    <text transform="translate(-1.4956364472111776,-39.97202861524261)">
+                                    <text transform="translate(-1.469338255738986,-39.97300395379639)">
                                         <tspan x="0" y="0em" font-weight="bold">Jsonnet</tspan>
                                     </text>
                                 </g>
@@ -3298,7 +3298,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1049.8666666666668 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1049.97 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3320,7 +3320,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 11160 times</div>
+                                <div class="text">Repositories have been deployed 11161 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3776,7 +3776,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.52m out of 202m repositories</span>
+                                    <span class="gh">ranked 1.52m out of 191m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 7 times</div>
                             </div>
@@ -3847,7 +3847,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.99m out of 202m repositories</span>
+                                    <span class="gh">ranked 2.99m out of 191m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -3938,7 +3938,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2024, 09:13:42 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2024, 11:00:55 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
