@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    18.2k added, 13.7k removed
+                                    28k added, 14.3k removed
                                 </div>
                             </section>
                             <section>
@@ -447,8 +447,8 @@
                         <span class="name">@zendesk</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="1.5527123365457676 329"/>
-                            <text x="15" y="15" dominant-baseline="central">140</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.8230936201880613 329"/>
+                            <text x="15" y="15" dominant-baseline="central">39</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
@@ -734,19 +734,19 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-71.477,-35.931L0,0Z">
+                                    <path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-72.75,-33.278L0,0Z">
                                         <title>Java
-36.00</title>
+35.81</title>
                                     </path>
-                                    <path fill="#0064bd" d="M-71.023,-36.821A80,80,0,0,1,-70.323,-38.141L0,0Z">
+                                    <path fill="#0064bd" d="M-72.329,-34.184A80,80,0,0,1,-71.679,-35.527L0,0Z">
                                         <title>Jsonnet
 0.13</title>
                                     </path>
-                                    <path fill="#701516" d="M-69.84,-39.017A80,80,0,0,1,-2.729,-79.953L0,0Z">
+                                    <path fill="#701516" d="M-71.229,-36.42A80,80,0,0,1,-2.729,-79.953L0,0Z">
                                         <title>Ruby
-7.15</title>
+7.42</title>
                                     </path>
-                                    <path fill="#B83998" d="M-1.73,-79.981A80,80,0,0,1,-1.615,-79.984L0,0Z">
+                                    <path fill="#B83998" d="M-1.729,-79.981A80,80,0,0,1,-1.615,-79.984L0,0Z">
                                         <title>Erlang
 0.01</title>
                                     </path>
@@ -756,21 +756,21 @@
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(20.88622228317634,34.11401059297702)">
+                                    <text transform="translate(21.510077356167905,33.724124482804186)">
                                         <tspan x="0" y="0em" font-weight="bold">Java</tspan>
-                                        <tspan x="0" y="1.1em">36.00</tspan>
+                                        <tspan x="0" y="1.1em">35.81</tspan>
                                     </text>
-                                    <text transform="translate(-35.33780075938637,-18.74139369123631)">
+                                    <text transform="translate(-36.00342238619306,-17.428527662466852)">
                                         <tspan x="0" y="0em" font-weight="bold">Jsonnet</tspan>
                                     </text>
-                                    <text transform="translate(-20.829852374822057,-34.148458970253984)">
+                                    <text transform="translate(-21.454842454501154,-33.75929109523088)">
                                         <tspan x="0" y="0em" font-weight="bold">Ruby</tspan>
-                                        <tspan x="0" y="1.1em">7.15</tspan>
+                                        <tspan x="0" y="1.1em">7.42</tspan>
                                     </text>
-                                    <text transform="translate(-0.8361379683091579,-39.99125996137096)">
+                                    <text transform="translate(-0.8359790378497041,-39.99126328397586)">
                                         <tspan x="0" y="0em" font-weight="bold">Erlang</tspan>
                                     </text>
-                                    <text transform="translate(-0.2787307017800182,-39.99902885315949)">
+                                    <text transform="translate(-0.27867771467058133,-39.99902922236171)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
                                     </text>
                                 </g>
@@ -3004,7 +3004,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1290.9433333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1291.0466666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3026,7 +3026,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 13493 times</div>
+                                <div class="text">Repositories have been deployed 13494 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3482,7 +3482,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.56m out of 220m repositories</span>
+                                    <span class="gh">ranked 1.56m out of 222m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 7 times</div>
                             </div>
@@ -3553,7 +3553,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.11m out of 220m repositories</span>
+                                    <span class="gh">ranked 3.11m out of 222m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -3644,7 +3644,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Mar 2025, 04:15:52 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Mar 2025, 05:13:14 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
