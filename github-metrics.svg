@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    14.2k added, 13.6k removed
+                                    14.1k added, 13.6k removed
                                 </div>
                             </section>
                             <section>
@@ -447,7 +447,7 @@
                         <span class="name">@zendesk</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.003750137139323579 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.0037500623348127467 329"/>
                             <text x="15" y="15" dominant-baseline="central">16</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -734,17 +734,17 @@
                                         <title>Dockerfile
 0.00</title>
                                     </path>
-                                    <path fill="#b07219" d="M1.5,-79.986A80,80,0,1,1,-43.929,-66.86L0,0Z">
+                                    <path fill="#b07219" d="M1.5,-79.986A80,80,0,1,1,-40.947,-68.727L0,0Z">
                                         <title>Java
-63.54</title>
+64.98</title>
                                     </path>
-                                    <path fill="#0064bd" d="M-43.089,-67.404A80,80,0,0,1,-39.785,-69.406L0,0Z">
+                                    <path fill="#0064bd" d="M-40.084,-69.233A80,80,0,0,1,-36.87,-70.997L0,0Z">
                                         <title>Jsonnet
-0.54</title>
+0.52</title>
                                     </path>
-                                    <path fill="#701516" d="M-38.914,-69.898A80,80,0,0,1,-1.5,-79.986L0,0Z">
+                                    <path fill="#701516" d="M-35.98,-71.452A80,80,0,0,1,-1.5,-79.986L0,0Z">
                                         <title>Ruby
-5.47</title>
+5.08</title>
                                     </path>
                                     <path fill="#B83998" d="M-0.5,-79.998L0,0Z">
                                         <title>Erlang
@@ -755,16 +755,16 @@
                                     <text transform="translate(0.24999837239901823,-39.99921875254313)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
-                                    <text transform="translate(11.103152367286546,38.42811480555375)">
+                                    <text transform="translate(10.255489522186982,38.66296593201707)">
                                         <tspan x="0" y="0em" font-weight="bold">Java</tspan>
-                                        <tspan x="0" y="1.1em">63.54</tspan>
+                                        <tspan x="0" y="1.1em">64.98</tspan>
                                     </text>
-                                    <text transform="translate(-20.724634311656796,-34.21241781353808)">
+                                    <text transform="translate(-19.24367448961144,-35.066807555548564)">
                                         <tspan x="0" y="0em" font-weight="bold">Jsonnet</tspan>
                                     </text>
-                                    <text transform="translate(-10.4135734698621,-38.62068730082084)">
+                                    <text transform="translate(-9.609756343404905,-38.82850219903401)">
                                         <tspan x="0" y="0em" font-weight="bold">Ruby</tspan>
-                                        <tspan x="0" y="1.1em">5.47</tspan>
+                                        <tspan x="0" y="1.1em">5.08</tspan>
                                     </text>
                                     <text transform="translate(-0.24999837239893433,-39.99921875254313)">
                                         <tspan x="0" y="0em" font-weight="bold">Erlang</tspan>
@@ -2982,7 +2982,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1308.6133333333332 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1308.7166666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3004,7 +3004,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 13664 times</div>
+                                <div class="text">Repositories have been deployed 13665 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3460,7 +3460,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.56m out of 222m repositories</span>
+                                    <span class="gh">ranked 1.56m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 7 times</div>
                             </div>
@@ -3531,7 +3531,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.12m out of 222m repositories</span>
+                                    <span class="gh">ranked 3.12m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -3622,7 +3622,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2025, 15:16:29 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2025, 16:21:22 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
