@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    59.8k added, 31.5k removed
+                                    93.9k added, 75.9k removed
                                 </div>
                             </section>
                             <section>
@@ -447,11 +447,19 @@
                         <span class="name">@zendesk</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.003779779363066967 329"/>
-                            <text x="15" y="15" dominant-baseline="central">17</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="7.844482682644614 329"/>
+                            <text x="15" y="15" dominant-baseline="central">461</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                        </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
+                            <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.3269230769230775 329"/>
+                            <text x="15" y="15" dominant-baseline="central">1</text>
+                        </svg>
+                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                         </svg>
                     </div>
                 </div>
@@ -730,57 +738,57 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-47.163,-64.619L0,0Z">
+                                    <path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-46.992,-64.743L0,0Z">
                                         <title>Java
-20.15</title>
+20.98</title>
                                     </path>
-                                    <path fill="#0064bd" d="M-46.351,-65.204A80,80,0,0,1,-14.388,-78.695L0,0Z">
+                                    <path fill="#0064bd" d="M-46.179,-65.326A80,80,0,0,1,-14.043,-78.758L0,0Z">
                                         <title>Jsonnet
-1.56</title>
+1.63</title>
                                     </path>
-                                    <path fill="#89e051" d="M-13.404,-78.869A80,80,0,0,1,-12.076,-79.083L0,0Z">
+                                    <path fill="#89e051" d="M-13.058,-78.927A80,80,0,0,1,-11.781,-79.128L0,0Z">
                                         <title>Shell
 0.06</title>
                                     </path>
-                                    <path fill="#384d54" d="M-11.086,-79.228A80,80,0,0,1,-9.53,-79.43L0,0Z">
+                                    <path fill="#384d54" d="M-10.791,-79.269A80,80,0,0,1,-9.723,-79.407L0,0Z">
                                         <title>Dockerfile
-0.07</title>
+0.05</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-8.536,-79.543L0,0Z">
+                                    <path fill="#f1e05a" d="M-8.729,-79.522L0,0Z">
                                         <title>JavaScript
 0.00</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-7.542,-79.644A80,80,0,0,1,-7.095,-79.685L0,0Z">
+                                    <path fill="#3178c6" d="M-7.735,-79.625A80,80,0,0,1,-7.091,-79.685L0,0Z">
                                         <title>TypeScript
-0.02</title>
+0.03</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-6.098,-79.767A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#3178c6" d="M-6.095,-79.768A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>TSX
-0.25</title>
+0.26</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(12.282943980277567,38.06743079296741)">
+                                    <text transform="translate(12.232795679015243,38.083575329470655)">
                                         <tspan x="0" y="0em" font-weight="bold">Java</tspan>
-                                        <tspan x="0" y="1.1em">20.15</tspan>
+                                        <tspan x="0" y="1.1em">20.98</tspan>
                                     </text>
-                                    <text transform="translate(-15.555020714980172,-36.85161231963315)">
+                                    <text transform="translate(-15.425607168786469,-36.905970295797445)">
                                         <tspan x="0" y="0em" font-weight="bold">Jsonnet</tspan>
-                                        <tspan x="0" y="1.1em">1.56</tspan>
+                                        <tspan x="0" y="1.1em">1.63</tspan>
                                     </text>
-                                    <text transform="translate(-6.370033246334849,-39.48952616125685)">
+                                    <text transform="translate(-6.209837499058808,-39.51503407862991)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
                                     </text>
-                                    <text transform="translate(-5.154323916116787,-39.66652171501487)">
+                                    <text transform="translate(-5.12852700633062,-39.66986527258868)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
-                                    <text transform="translate(-4.268244680130875,-39.77162414775809)">
+                                    <text transform="translate(-4.364714104559167,-39.76115278491636)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-3.659174993033822,-39.83227884982676)">
+                                    <text transform="translate(-3.706541086258831,-39.8278991810499)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
                                     </text>
-                                    <text transform="translate(-1.6506359429252428,-39.965928001035124)">
+                                    <text transform="translate(-1.649686850044865,-39.965967188306465)">
                                         <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
                                     </text>
                                 </g>
@@ -3123,7 +3131,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jun 2025, 20:30:40 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jun 2025, 21:24:09 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
